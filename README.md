@@ -1,36 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to RetroHD
+This site is dedicated to my love for retro games. Altough the most popular ones have a strong community behind that often works to provide HD textures and improve the games' look, most games don't get the same treatment. 
 
-You can use the [editor on GitHub](https://github.com/texturesguy/RetroHD/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+With this project, I want to create and curate a series of HD textures for the least popular games. I will start with Wii and Gamecube games (Dolphin), but with time I might explore other platforms as well.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/texturesguy/RetroHD/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
