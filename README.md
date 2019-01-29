@@ -1,5 +1,5 @@
 ## Welcome to RetroHD
-This site is dedicated to my love for retro games. Altough the most popular ones have a strong community behind that often works to provide HD textures and improve the games' look, most games don't get the same treatment. 
+This project is dedicated to the creation of HD textures for the least popular retro games out there. Altough the most popular ones have a strong community behind that often works to provide HD textures and improve the games' look, most games don't get the same treatment. 
 
 With this project, I want to create and curate a series of HD textures for the least popular games. I will start with Wii and Gamecube games (Dolphin), but with time I might explore other platforms as well.
 
