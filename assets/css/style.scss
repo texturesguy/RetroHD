@@ -4,6 +4,6 @@
 @import "{{ site.theme }}";
 
 html {
-display:none;
+display:none !important;
 
 }
